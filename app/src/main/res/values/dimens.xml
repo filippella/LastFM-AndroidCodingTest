@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_bar_stroke_size">1dp</dimen>
+    <dimen name="search_bar_corner_radius">5dp</dimen>
+    <dimen name="item_margin_gap_size">8dp</dimen>
+    <dimen name="dimen_size_8dp">8dp</dimen>
+</resources>

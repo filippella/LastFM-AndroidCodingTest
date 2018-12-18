@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Last FM App</string>
+    <string name="text_hint_album_search">Type album name…</string>
+    <string name="text_hint_artist_search">Type artist name…</string>
+    <string name="text_hint_track_search">Type track name…</string>
+    <string name="text_search">Search</string>
+</resources>
